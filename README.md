@@ -5,18 +5,9 @@ Projeto Desenvolvido no Curso Discover da Rocketseat
 </p>
 
 <p align="center"> 
-  <a href="#-tecnologias">Tecnologias </a>
-</p>
-
-<p align="center"> 
-  <a href="#-projeto">Projeto </a>
-</p>
-
-<p align="center"> 
-  <a href="#-layout">Layout </a>
-</p>
-
-<p align="center">
+  <a href="#-tecnologias">Tecnologias </a> |
+  <a href="#-projeto">Projeto </a> |
+  <a href="#-layout">Layout </a> 
   <img alt="Projeto DevLinks" src="./assets/Cover.jpg">
 </p>
 <p align="center"> </p>
